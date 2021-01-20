@@ -3,11 +3,11 @@
 Submission for Connor Brabant 
 
 In order to run, you need these dependencies:
-    1) PrettyTable
-    https://pypi.org/project/prettytable/
-
-    2) Math
-
+    <br>
+    1) PrettyTable - https://pypi.org/project/prettytable 
+    <br>
+    2) Math 
+    <br>
     3) Decimal
 
 Once you have needed dependencies, run program in your terminal
